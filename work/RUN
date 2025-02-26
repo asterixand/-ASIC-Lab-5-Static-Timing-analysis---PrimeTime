@@ -1,0 +1,3 @@
+
+pt_shell -f ../scripts/sta_post_max.tcl 
+pt_shell -f ../scripts/sta_post_min.tcl 
